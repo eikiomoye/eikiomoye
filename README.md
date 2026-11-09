@@ -19,6 +19,13 @@ A Python project exploring flow-level path selection, bandwidth admission and re
 
 The simulator is a new portfolio implementation. Its results are illustrative and are separate from my doctoral experiments and published findings.
 
+## Selected publication
+
+**[Comparative Classification of DNS-over-HTTPS Traffic on the CIRACIC-DoHBrw-2020 Dataset Using Logistic Regression, Random Forest and XGBoost](https://doi.org/10.63158/journalisi.v8i5.1914)**  
+Ikiomoye Douglas Emmanuel. *Journal of Information Systems and Informatics*, 8(5), 6503-6534 (2026).
+
+A controlled comparison of three classifier families for identifying DoH within encrypted HTTPS traffic, examining predictive performance, computational cost and permutation-based feature dependence. The findings concern within-benchmark classification; they do not establish operational or cross-network generalisation.
+
 ## Teaching and academic practice
 
 My teaching spans programming, software development, databases, cybersecurity, cloud networking and AI. I am interested in practical laboratory learning, clear assessment design and helping students connect computing principles with working systems.
