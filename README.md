@@ -25,7 +25,11 @@ An NLP-based researcher-discovery application that uses semantic embeddings and 
 
 My fork: [`eikiomoye/researchmatch`](https://github.com/eikiomoye/researchmatch). Original repository: [`danielsegb/researchmatch`](https://github.com/danielsegb/researchmatch).
 
-## Selected publication
+### [XAI Healthcare Survey Companion](https://github.com/eikiomoye/XAI-Healthcare-Review)
+
+A research companion to our 2024 survey on explainable AI in healthcare, with 131 extracted references, method and evaluation summaries, a reading guide and a Python catalogue-search utility. These materials were created after publication and are distinguished from the original review's screening data.
+
+## Selected publications
 
 **[Comparative Classification of DNS-over-HTTPS Traffic on the CIRACIC-DoHBrw-2020 Dataset Using Logistic Regression, Random Forest and XGBoost](https://doi.org/10.63158/journalisi.v8i5.1914)**  
 Ikiomoye Douglas Emmanuel. *Journal of Information Systems and Informatics*, 8(5), 6503-6534 (2026).
@@ -33,6 +37,11 @@ Ikiomoye Douglas Emmanuel. *Journal of Information Systems and Informatics*, 8(5
 A controlled comparison of three classifier families for identifying DoH within encrypted HTTPS traffic, examining predictive performance, computational cost and permutation-based feature dependence. The findings concern within-benchmark classification; they do not establish operational or cross-network generalisation.
 
 **[Research code and results](https://github.com/eikiomoye/DoH-Traffic-Classification)**: reviewed notebook and Python runner, supplied historical results, citation files and automated consistency checks. The full benchmark has not been rerun during the code review.
+
+**[A survey of explainable artificial intelligence in healthcare: Concepts, applications, and challenges](https://doi.org/10.1016/j.imu.2024.101587)**  
+Mienye, I. D., Obaido, G., Jere, N., Mienye, E., Aruleba, K., Emmanuel, I. D., and Ogbuokiri, B. *Informatics in Medicine Unlocked*, 51, 101587 (2024).
+
+**[Survey companion and reference catalogue](https://github.com/eikiomoye/XAI-Healthcare-Review)**.
 
 ## Teaching and academic practice
 
