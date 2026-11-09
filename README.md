@@ -2,7 +2,7 @@
 
 ### Computing educator and researcher
 
-I am a Senior Lecturer in Computing at University of Bolton Manchester and a Postdoctoral Research Fellow at the University of South Africa. My work connects applied AI, intelligent networking and practical computing education.
+I am a Lecturer in Computing at University of Greater Manchester and a Postdoctoral Research Fellow at the University of South Africa. My work connects applied AI, intelligent networking and practical computing education.
 
 ## Research interests
 
