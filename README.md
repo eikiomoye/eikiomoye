@@ -19,11 +19,11 @@ A Python project exploring flow-level path selection, bandwidth admission and re
 
 The simulator is a new portfolio implementation. Its results are illustrative and are separate from my doctoral experiments and published findings.
 
-### [ResearchMatch](https://github.com/danielsegb/researchmatch)
+### [ResearchMatch](https://github.com/eikiomoye/researchmatch)
 
 An NLP-based researcher-discovery application that uses semantic embeddings and MongoDB Atlas Vector Search to identify researchers with related expertise. It supports keyword and document-based searches and presents relevant publications to help explain matches.
 
-The project repository is hosted under [`danielsegb/researchmatch`](https://github.com/danielsegb/researchmatch).
+My fork: [`eikiomoye/researchmatch`](https://github.com/eikiomoye/researchmatch). Original repository: [`danielsegb/researchmatch`](https://github.com/danielsegb/researchmatch).
 
 ## Selected publication
 
