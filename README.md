@@ -26,6 +26,8 @@ Ikiomoye Douglas Emmanuel. *Journal of Information Systems and Informatics*, 8(5
 
 A controlled comparison of three classifier families for identifying DoH within encrypted HTTPS traffic, examining predictive performance, computational cost and permutation-based feature dependence. The findings concern within-benchmark classification; they do not establish operational or cross-network generalisation.
 
+**[Research code and results](https://github.com/eikiomoye/DoH-Traffic-Classification)**: reviewed notebook and Python runner, supplied historical results, citation files and automated consistency checks. The full benchmark has not been rerun during the code review.
+
 ## Teaching and academic practice
 
 My teaching spans programming, software development, databases, cybersecurity, cloud networking and AI. I am interested in practical laboratory learning, clear assessment design and helping students connect computing principles with working systems.
