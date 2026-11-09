@@ -29,6 +29,10 @@ My fork: [`eikiomoye/researchmatch`](https://github.com/eikiomoye/researchmatch)
 
 A research companion to our 2024 survey on explainable AI in healthcare, with 131 extracted references, method and evaluation summaries, a reading guide and a Python catalogue-search utility. These materials were created after publication and are distinguished from the original review's screening data.
 
+### [AI for Sustainable Development in Africa](https://github.com/eikiomoye/AI-Sustainable-Development-Africa)
+
+A companion to our 2026 structured review, organising the adaptive deployment framework, 72 bibliography entries, resource dimensions and reported study-selection counts. It includes a new, unscored discussion worksheet and Python utilities. The framework is conceptual and has not been empirically validated.
+
 ## Selected publications
 
 **[Comparative Classification of DNS-over-HTTPS Traffic on the CIRACIC-DoHBrw-2020 Dataset Using Logistic Regression, Random Forest and XGBoost](https://doi.org/10.63158/journalisi.v8i5.1914)**  
@@ -42,6 +46,11 @@ A controlled comparison of three classifier families for identifying DoH within 
 Mienye, I. D., Obaido, G., Jere, N., Mienye, E., Aruleba, K., Emmanuel, I. D., and Ogbuokiri, B. *Informatics in Medicine Unlocked*, 51, 101587 (2024).
 
 **[Survey companion and reference catalogue](https://github.com/eikiomoye/XAI-Healthcare-Review)**.
+
+**[Artificial Intelligence for Sustainable Development in Low-Resource African Contexts: A Structured Review and Adaptive Deployment Framework](https://doi.org/10.3390/su18157835)**  
+Emmanuel, I. D., and Esenogho, E. *Sustainability*, 18(15), 7835 (2026).
+
+**[Framework companion and resources](https://github.com/eikiomoye/AI-Sustainable-Development-Africa)**.
 
 ## Teaching and academic practice
 
