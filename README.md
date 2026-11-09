@@ -13,11 +13,11 @@ I am a Lecturer in Computing at University of Greater Manchester and a Postdocto
 
 ## Featured projects
 
-### [SD-WAN Controller](https://github.com/eikiomoye/SD-WAN-Controller)
+### [SD-WAN: Doctoral Research and Python Simulator](https://github.com/eikiomoye/SD-WAN-Controller)
 
-A Python project exploring flow-level path selection, bandwidth admission and recovery from link failures using synthetic telemetry. It includes a deterministic simulation, baseline policies, automated tests and reproducible examples.
+My doctoral research explored an enhanced SD-WAN architecture for dynamic load balancing, using traffic monitors and controller-driven route updates. The [PhD research guide](https://github.com/eikiomoye/SD-WAN-Controller/tree/main/research/thesis) documents the architecture, experimental settings and selected reported findings with thesis page references.
 
-The simulator is a new portfolio implementation. Its results are illustrative and are separate from my doctoral experiments and published findings.
+The repository also includes a new Python simulator for flow-level path selection, bandwidth admission and recovery from link failures, with baseline policies, automated tests and reproducible synthetic examples. The original doctoral scripts are no longer available; the simulator is a separate implementation, and its results do not reproduce the PhD experiments.
 
 ### [ResearchMatch](https://github.com/eikiomoye/researchmatch)
 
