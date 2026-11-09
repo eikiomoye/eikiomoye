@@ -11,13 +11,19 @@ I am a Lecturer in Computing at University of Greater Manchester and a Postdocto
 - **Intelligent networking:** SD-WAN, traffic analysis and adaptive path selection.
 - **Interdisciplinary applications:** healthcare, energy, education and researcher discovery.
 
-## Featured project
+## Featured projects
 
 ### [SD-WAN Controller](https://github.com/eikiomoye/SD-WAN-Controller)
 
 A Python project exploring flow-level path selection, bandwidth admission and recovery from link failures using synthetic telemetry. It includes a deterministic simulation, baseline policies, automated tests and reproducible examples.
 
 The simulator is a new portfolio implementation. Its results are illustrative and are separate from my doctoral experiments and published findings.
+
+### [ResearchMatch](https://github.com/danielsegb/researchmatch)
+
+An NLP-based researcher-discovery application that uses semantic embeddings and MongoDB Atlas Vector Search to identify researchers with related expertise. It supports keyword and document-based searches and presents relevant publications to help explain matches.
+
+The project repository is hosted under [`danielsegb/researchmatch`](https://github.com/danielsegb/researchmatch).
 
 ## Selected publication
 
